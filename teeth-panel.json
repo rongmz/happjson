@@ -1,0 +1,42 @@
+{
+	"Q1": [
+      { "health": "Ok", "id": 1 }, 
+      { "health": "Ok", "id": 2 },
+      { "health": "Ok", "id": 3 },
+      { "health": "Ok", "id": 4 },
+      { "health": "Ok", "id": 5 },
+      { "health": "Ok", icon: "https://rongmz.github.io/happjson/cross.png", "id": 6 },
+      { "health": "Ok", "id": 7 },
+      { "health": "Ok", "id": 8 }
+   ],
+	"Q2": [
+      { "health": "Ok", "id": 1 },
+      { "health": "Ok", "id": 2 },
+      { "health": "Ok", icon: "https://rongmz.github.io/happjson/cross.png", "id": 3 },
+      { "health": "Ok", "id": 4 },
+      { "health": "Ok", "id": 5 },
+      { "health": "Ok", "id": 6 },
+      { "health": "Ok", "id": 7 },
+      { "health": "Ok", "id": 8 }
+   ],
+   "Q3": [
+      { "health": "Ok", icon: "https://rongmz.github.io/happjson/ua.png", "id": 1 },
+      { "health": "Ok", "id": 2 },
+      { "health": "Ok", icon: "https://rongmz.github.io/happjson/ua.png", "id": 3 },
+      { "health": "Ok", "id": 4 },
+      { "health": "Ok", "id": 5 },
+      { "health": "Ok", "id": 6 },
+      { "health": "Ok", "id": 7 },
+      { "health": "Ok", "id": 8 }
+   ],
+   "Q4": [
+      { "health": "Ok", "id": 1 },
+      { "health": "Ok", "id": 2 },
+      { "health": "Ok", icon: "https://rongmz.github.io/happjson/hg.png", "id": 3 },
+      { "health": "Ok", "id": 4 },
+      { "health": "Ok", "id": 5 },
+      { "health": "Ok", icon: "https://rongmz.github.io/happjson/cross.png", "id": 6 },
+      { "health": "Ok", "id": 7 },
+      { "health": "Ok", "id": 8 }
+   ]
+}
