@@ -1,0 +1,72 @@
+{
+  "name": "Rajesh S Singh",
+  "sex": "M",
+  "age": 39,
+  "dob": "1978-10-29",
+  "MRN": "2P3-2904867",
+  "photo": "https://rongmz.github.io/happjson/pt.png",
+
+  "teeth_details": {
+    "Q1": [
+      {"health": "Ok","id": 1},{"health": "Ok","id": 2},
+      {"health": "Ok","id": 3},{"health": "Ok","id": 4},
+      {"health": "Ok","id": 5},{"health": "Ok","icon": "https://rongmz.github.io/happjson/cross.png","id": 6},
+      {"health": "Ok","id": 7},{"health": "Ok","id": 8}
+    ],
+    "Q2": [
+      {"health": "Ok","id": 1},{"health": "Ok","id": 2},
+      {"health": "Ok","icon": "https://rongmz.github.io/happjson/cross.png","id": 3},{"health": "Ok","id": 4},
+      {"health": "Ok","id": 5},{"health": "Ok","id": 6},
+      {"health": "Ok","id": 7},{"health": "Ok","id": 8}
+    ],
+    "Q3": [
+      {"health": "Ok","icon": "https://rongmz.github.io/happjson/ua.png","id": 1},{"health": "Ok","id": 2},
+      {"health": "Ok","icon": "https://rongmz.github.io/happjson/ua.png","id": 3},{"health": "Ok","id": 4},
+      {"health": "Ok","id": 5},{"health": "Ok","id": 6},
+      {"health": "Ok","id": 7},{"health": "Ok","id": 8}
+    ],
+    "Q4": [
+      {"health": "Ok","id": 1},{"health": "Ok","id": 2},
+      {"health": "Ok","icon": "https://rongmz.github.io/happjson/hg.png","id": 3},{"health": "Ok","id": 4},
+      {"health": "Ok","id": 5},{"health": "Ok","icon": "https://rongmz.github.io/happjson/cross.png","id": 6},
+      {"health": "Ok","id": 7},{"health": "Ok","id": 8}
+    ]
+  },
+
+  "case_details": {
+    "case_presentation": "A 62-year-old woman is admitted to hospital with a 3-day history of increasing breathlessness, wheeze, and dry cough. <b>PMH</b>, Chronic obstructive pulmonary disease with several admissions for exacerbations, and angina pectoris. <b>DH</b>, Salbutamol inhaler 200 micrograms as required, tlotropium inhaler 18 micrograms daily, fluticasone propionate 250 micrograms with salmeterol 500 micrograms inhealer (seretide 250 Accuhaler&reg;) 12-hrly. Treatment with oral prednisolone has already been started by the GP.",
+    "on_examination": "She appears distressed and is centrally cyanosed and coughing. Temparature 37.1&#8451;, HR 112/min, BP 116/72 mmHg, RR 30/min, O<sub>2</sub> sat 90% on air. PEFR 120 L/min. She is using her accessory muscles to breathe. Auscultation of the chest reveals widespread wheezes bilaterally.",
+    "investigations": "Hb 146 g/L (115-165), WCC 9.8 x 10<sup>3</sup>/L (4.0-11.0), Na<sup>+</sup> 140 mmol/L (137-144), K<sup>+</sup> 4.2 mmol/L (3.5-4.9), U 7.2 mmol/L (2.5-7.0), Cr 85 &micro;mol/L (60-110). CXR shows hyperexpanded lungs."
+  },
+
+  "prescriptions": [
+    {
+      "date": "2017-10-12",
+      "age": "39-3",
+      "weight": 67,
+      "px": [
+        { "type": "tablet", "name": "Crocin tab (500mg) - 500mg", "qty": "3 unit", "dose": "0.5 unit", "freq": "Bi0 (twice a day)", "duration": "3 days", "after_food": "After meals" },
+        { "type": "tablet", "name": "Disprin tab", "qty": "5 unit", "dose": "1.0 unit", "freq": "00 (once in a day)", "duration": "5 days", "after_food": "Take tablet with water" },
+        { "type": "advice", "advice": "Take rest and avoid exertion." }
+      ]
+    },
+    {
+      "date": "2017-11-20",
+      "age": "39-4",
+      "weight": 65,
+      "px": [
+        { "type": "tablet", "name": "Crocin tab (500mg) - 500mg", "qty": "3 unit", "dose": "0.5 unit", "freq": "Bi0 (twice a day)", "duration": "3 days", "after_food": "After meals" },
+        { "type": "tablet", "name": "Disprin tab", "qty": "5 unit", "dose": "1.0 unit", "freq": "00 (once in a day)", "duration": "5 days", "after_food": "Take tablet with water" },
+        { "type": "advice", "advice": "Take rest and avoid exertion. Meet after 3 months." }
+      ]
+    }
+  ],
+
+  "vital_measure": [
+    ["Blood Pressure", "2017-08-25", "130/80"],
+    ["Weight", "2017-08-25", "68 kg"],
+    ["Height", "2017-08-25", "167 cm"],
+    ["Temperature", "2017-08-25", "98.6 &deg;F"]
+  ]
+
+}
