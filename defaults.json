@@ -1,0 +1,18 @@
+{
+  "complaints" : [
+    "Toothache", "Headache", "Bleeding Gum", "Smelly Mouth", "Black Teeth"
+  ],
+
+  "observation" : [
+    "Irregular brush", "Bleeding Gum", "Sensitive Teeth"
+  ],
+
+  "diagnosis" : [
+    "Diagnosis 1", "Diagnosis 2", "Diagnosis 3", "Diagnosis 4", "Diagnosis 5", "Diagnosis 6"
+  ],
+
+  "vital_measures" : [
+    "Blood Pressure", "Weight", "Height", "Temperature", "Tongue", "Eye", "Teeth"
+  ]
+
+}
